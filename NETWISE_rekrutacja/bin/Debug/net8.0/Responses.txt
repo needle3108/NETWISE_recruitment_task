@@ -1,0 +1,14 @@
+{"fact":"Mohammed loved cats and reportedly his favorite cat, Muezza, was a tabby. Legend says that tabby cats have an \u201cM\u201d for Mohammed on top of their heads because Mohammad would often rest his hand on the cat\u2019s head.","length":210}
+{"fact":"A cat will tremble or shiver when it is extreme pain.","length":53}
+{"fact":"Cats respond most readily to names that end in an \\ee\\\" sound.\"\"\"","length":65}
+{"fact":"Some common houseplants poisonous to cats include: English Ivy, iris, mistletoe, philodendron, and yew.","length":103}
+{"fact":"Many cats love having their forehead gently stroked.","length":52}
+{"fact":"Cats can judge within 3 inches the precise location of a sound being made 1 yard away.","length":86}
+{"fact":"About 37% of American homes today have at least 1 cat.","length":54}
+{"fact":"Tabby cats are thought to get their name from Attab, a district in Baghdad, now the capital of Iraq.","length":100}
+{"fact":"Ancient Egyptian family members shaved their eyebrows in mourning when the family cat died.","length":91}
+{"fact":"Cats can jump up to 7 times their tail length.","length":46}
+{"fact":"About 37% of American homes today have at least 1 cat.","length":54}
+{"fact":"The cat's front paw has 5 toes, but the back paws have 4. Some cats are born with as many as 7 front toes and extra back toes (polydactl).","length":138}
+{"fact":"The cat has 500 skeletal muscles (humans have 650).","length":51}
+{"fact":"Female felines are \\superfecund","length":31}
